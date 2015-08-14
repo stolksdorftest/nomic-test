@@ -21,6 +21,8 @@ This is a test Round for Nomic
 
 ## Scoreboard
 **Jared** : 0
+
 **Scott** : 0
+
 **Kellen** : 0
 
