@@ -9,10 +9,8 @@ This is a test Round for Nomic
 4. Each player always has exactly one vote.
 5. If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
 6. The game follows the following turn order:
-
  * Jared
  * Scott
  * Kellen
-
 7. The first player to reach 100 points wins the game.
 8. This game ends on September 1st 2015, midnight. The player with the highest point value at this time wins the game.
