@@ -14,15 +14,32 @@ This is a test Round for Nomic
 
 102: **All hands-in Rule**
 > A rule-change is adopted if and only if the vote is unanimous among the eligible voters. 
+
 > If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
 -----------------
 
-5. If two or more rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
-6. The game follows the following turn order:
- * Jared
- * Ross
- * Scott
- * Kellen
-7. The first player to reach 100 points wins the game.
-8. This game ends on September 1st 2015, midnight. The player with the highest point value at this time wins the game.
+103: **Ab Initio** 
+> If two or more rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
+
+--------------------
+
+104: **Victory Condition**
+> The first player to reach 100 points wins the game.
+
+----------------
+
+105: **Player Order**
+> The game follows the following turn order:
+>> * Jared
+>> * Ross
+>> * Scott
+>> * Kellen
+
+----------------
+
+106: **Rule of Completion**
+> This game ends on September 1st 2015, midnight. 
+
+>The player with the highest point value at this time wins the game.
+
