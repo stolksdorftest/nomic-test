@@ -6,8 +6,9 @@ This is a test Round for Nomic
 101: **Victory Condition**
 > The first player to reach 100 points wins the game.
 
+<sup>
 [[0](https://github.com/stolksdorf/nomos-test/pull/1)]
-
+</sup>
 ----
 
 102: **Points**
@@ -15,9 +16,10 @@ This is a test Round for Nomic
 
 > Points may not be gained, lost, or traded except as explicitly stated in the rules.
   
+<sup>
 [[0]()]
 [[2](https://github.com/stolksdorf/nomos-test/pull/2)]
-
+</sup?
 ----
 
 103: **Turn Structure**
