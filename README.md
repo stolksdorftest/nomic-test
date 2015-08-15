@@ -43,3 +43,11 @@ This is a test Round for Nomic
 
 >The player with the highest point value at this time wins the game.
 
+-------------
+
+107: **Points**
+> All players begin with 0 points.  
+
+> Points may not be gained, lost, or
+  traded except as explicitly stated in the rules.
+
