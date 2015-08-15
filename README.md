@@ -6,6 +6,7 @@ This is a test Round for Nomic
 101: **Victory Condition**
 > The first player to reach 100 points wins the game.
 
+[0]
 ----
 
 102: **Points**
@@ -13,6 +14,7 @@ This is a test Round for Nomic
 
 > Points may not be gained, lost, or traded except as explicitly stated in the rules.
   
+[0]
 ----
 
 103: **Turn Structure**
@@ -22,6 +24,7 @@ This is a test Round for Nomic
 
 >> (2) throwing one d6 once and adding the number of points on its face to one's score.
 
+[0]
 ----
 
 104: **All hands-in Rule**
@@ -29,11 +32,13 @@ This is a test Round for Nomic
 
 > If this rule (rule 104) is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
+[0]
 ----
 
 105: **Ab Initio** 
 > If two or more rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
 
+[0]
 ----
 
 106: **Player Order**
@@ -43,6 +48,7 @@ This is a test Round for Nomic
 >> * Scott
 >> * Kellen
 
+[0]
 ----
 
 107: **Rule of Completion**
@@ -50,6 +56,7 @@ This is a test Round for Nomic
 
 >The player with the highest point value at this time wins the game.
 
+[0]
 ----
 
 
