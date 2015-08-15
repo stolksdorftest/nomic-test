@@ -5,7 +5,9 @@ This is a test Round for Nomic
 
 101: **Turn Structure**
 > One turn consists of two parts in this order: 
+
 >> (1) proposing one rule-change and having it voted on
+
 >> (2) throwing one d6 once and adding the number of points on its face to one's score.
 
 --------------------
