@@ -19,7 +19,7 @@ This is a test Round for Nomic
 <sup>
 [[0]()]
 [[2](https://github.com/stolksdorf/nomos-test/pull/2)]
-</sup?
+</sup>
 ----
 
 103: **Turn Structure**
