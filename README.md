@@ -9,6 +9,7 @@ This is a test Round for Nomic
 <sup>
 [[0](https://github.com/stolksdorf/nomos-test/pull/1)]
 </sup>
+
 ----
 
 102: **Points**
@@ -20,6 +21,7 @@ This is a test Round for Nomic
 [[0]()]
 [[2](https://github.com/stolksdorf/nomos-test/pull/2)]
 </sup>
+
 ----
 
 103: **Turn Structure**
