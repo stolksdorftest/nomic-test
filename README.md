@@ -10,6 +10,7 @@ This is a test Round for Nomic
 5. If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
 6. The game follows the following turn order:
  * Jared
+ * Ross
  * Scott
  * Kellen
 7. The first player to reach 100 points wins the game.
