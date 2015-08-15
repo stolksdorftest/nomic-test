@@ -7,6 +7,7 @@ This is a test Round for Nomic
 > The first player to reach 100 points wins the game.
 
 [0]()
+
 ----
 
 102: **Points**
