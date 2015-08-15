@@ -3,6 +3,17 @@ This is a test Round for Nomic
 
 ## Rules
 
+104: **Victory Condition**
+> The first player to reach 100 points wins the game.
+----------------
+
+107: **Points**
+> All players begin with 0 points.  
+
+> Points may not be gained, lost, or
+  traded except as explicitly stated in the rules.
+----------------------
+
 101: **Turn Structure**
 > One turn consists of two parts in this order: 
 
@@ -24,10 +35,7 @@ This is a test Round for Nomic
 
 --------------------
 
-104: **Victory Condition**
-> The first player to reach 100 points wins the game.
 
-----------------
 
 105: **Player Order**
 > The game follows the following turn order:
@@ -45,9 +53,5 @@ This is a test Round for Nomic
 
 -------------
 
-107: **Points**
-> All players begin with 0 points.  
 
-> Points may not be gained, lost, or
-  traded except as explicitly stated in the rules.
 
