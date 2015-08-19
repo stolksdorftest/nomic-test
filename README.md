@@ -3,7 +3,7 @@ This is a test Round for Nomic
 
 ## Rules
 
-101: **Victory Condition**
+##### 101: **Victory Condition**
 > The first player to reach 100 points wins the game.
 
 <sup>
