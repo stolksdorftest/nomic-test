@@ -1,7 +1,7 @@
 # Nomic-test
 This is a test Round for Nomic
 
-![](http://8a8435b8.ngrok.io/)
+![](https://nomicbot.herokuapp.com/)
 
 ## Rules
 
