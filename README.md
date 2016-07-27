@@ -8,13 +8,8 @@ This is a test Round for Nomic
 #### 101: **Victory Condition**
 > No one can ever win at this game. Ever.
 
-<sup>
-[[0](https://github.com/stolksdorf/nomos-test/pull/1)]
-</sup>
+<sup>[[0](https://github.com/stolksdorf/nomic-test/pull/1)]</sup>
 
-#7
-
-----
 
 102: **Points**
 > All players begin with 0 points.  
