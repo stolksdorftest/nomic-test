@@ -6,7 +6,7 @@ This is a test Round for Nomic
 ## Rules
 
 ##### 101: **Victory Condition**
-> The first player to reach 100 points wins the game.
+> The first player to reach 106 points wins the game.
 
 <sup>
 [[0](https://github.com/stolksdorf/nomos-test/pull/1)]
