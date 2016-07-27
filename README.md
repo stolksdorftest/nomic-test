@@ -14,6 +14,8 @@ This is a test Round for Nomic
 
 ----
 
+Boop
+
 102: **Points**
 > All players begin with 0 points.  
 
