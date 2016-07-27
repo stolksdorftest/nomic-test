@@ -1,8 +1,6 @@
 # Nomic-test
 This is a test Round for Nomic
 
-![](https://nomicbot.herokuapp.com/)
-
 ## Rules
 
 #### 101: **Victory Condition**
